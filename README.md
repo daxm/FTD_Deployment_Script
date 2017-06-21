@@ -1,6 +1,9 @@
 # FTD_Deployment_Script
 Use these scripts as a basis for a "Green Field" set up of an FMC and its FTD devices.
 
+# Note
+The scripts herein use the "fmcapi" Python package.  You can install it via the "pip3 install -U fmcapi" command.
+
 # Steps
  * Boot up greenfield FMC.
  * Enable 90 day licensing
